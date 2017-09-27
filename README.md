@@ -1,4 +1,4 @@
-# DFU bootloader for STM32f103t8 a.k.a. "BluePill" devices
+# DFU bootloader for STM32f103C8t6 a.k.a. "BluePill" devices
 
 I made this for my [NinjaKeyboard](https://github.com/nicguzzo/keyboard-firmware) and other bluepill projects.
 
