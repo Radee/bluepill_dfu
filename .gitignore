@@ -1,0 +1,12 @@
+*.hex
+*.elf
+*.o
+*.bin
+*.sublime-project
+*.sublime-workspace
+*.dep
+*.bak
+_saved_*.sch
+.mxproject
+build
+*-cache.lib
